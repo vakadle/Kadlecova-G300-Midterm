@@ -7,7 +7,6 @@
 			"files": [
 				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Maps/MAP_Graveyard.umap",
 				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/GhostNPC.uasset",
-				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/BP_GhostAIController.uasset",
 				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/BP_FlyingGhost.uasset",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
 				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Heloween/Textures/Universal_Shader_V10.uasset",
@@ -26,6 +25,10 @@
 				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Heloween/gravestone-old-tower.uasset",
 				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Heloween/hole-graveyard-base.uasset",
 				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Heloween/hole-graveyard-fill.uasset",
+				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Heloween/halloween12.uasset",
+				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Heloween/gibbet-gate.uasset",
+				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Heloween/hand-severed.uasset",
+				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/BP_GhostAIController.uasset",
 				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Maps/Graveyard.umap",
 				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Halloween/Textures/Candle_Fire.uasset",
 				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Halloween/Textures/Dirt_A_Alb.uasset",
