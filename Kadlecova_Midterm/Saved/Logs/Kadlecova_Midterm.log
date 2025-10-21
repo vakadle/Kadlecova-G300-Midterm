@@ -1150,3 +1150,422 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.21-17.16.22:180][ 10]LogEOSSDK: LogEOS: SDK Config Product Update Request Successful, Time: 7.937613
 [2025.10.21-17.16.22:182][ 10]LogEOSSDK: LogEOS: SDK Config Data - Watermark: -227189215
 [2025.10.21-17.16.22:182][ 10]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7.937613, Update Interval: 358.386780
+[2025.10.21-17.16.51:366][746]Cmd: MAP LOAD FILE="../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Maps/MAP_Graveyard.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2025.10.21-17.16.51:381][746]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-17.16.51:381][746]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-17.16.51:381][746]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.21-17.16.51:398][746]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.21-17.16.51:435][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2025.10.21-17.16.51:436][746]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.21-17.16.51:467][746]LogAudio: Display: Audio Device (ID: 1) registered with world 'MAP_Graveyard'.
+[2025.10.21-17.16.51:468][746]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_Graveyard
+[2025.10.21-17.16.51:482][746]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2025.10.21-17.16.51:495][746]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2025.10.21-17.16.51:501][746]Cmd: MAP CHECKDEP NOCLEARLOG
+[2025.10.21-17.16.51:501][746]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.026ms to complete.
+[2025.10.21-17.16.51:502][746]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_0
+[2025.10.21-17.16.51:614][746]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.21-17.16.51:684][748]LogRenderer: Using fallback RTPSO
+[2025.10.21-17.16.51:698][748]LogD3D12RHI: Creating RTPSO with 15 shaders (0 cached, 3 new) took 13.75 ms. Compile time 5.18 ms, link time 8.56 ms.
+[2025.10.21-17.16.59:096][606]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/GhostNPC.GhostNPC
+[2025.10.21-17.16.59:097][606]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.10.21-17.16.59:163][606]LogStreaming: Display: FlushAsyncLoading(397): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.21-17.17.00:717][606]LogSlate: Took 0.000144 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.10.21-17.17.00:718][606]LogSlate: Took 0.000119 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2025.10.21-17.17.18:995][716]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.21-17.17.18:999][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.21-17.17.18:999][716]LogPlayLevel: Display: Creating online subsystem for client :Context_3
+[2025.10.21-17.17.19:002][716]LogOnline: OSS: Created online subsystem instance for: :Context_3
+[2025.10.21-17.17.19:014][717]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Graveyard
+[2025.10.21-17.17.19:022][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007847s)
+[2025.10.21-17.17.19:022][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Graveyard.MAP_Graveyard to /Game/Maps/UEDPIE_0_MAP_Graveyard.MAP_Graveyard (0.007886s)
+[2025.10.21-17.17.19:053][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.21-17.17.19:054][717]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_Graveyard
+[2025.10.21-17.17.19:055][717]LogPlayLevel: PIE: World Init took: (0.001225s)
+[2025.10.21-17.17.19:056][717]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.10.21-17.17.19:056][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.21-17.17.19:056][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.21-17.17.19:056][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.21-17.17.19:056][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.21-17.17.19:056][717]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.21-17.17.19:056][717]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.21-17.17.19:056][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.21-17.17.19:056][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.21-17.17.19:056][717]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.21-17.17.19:056][717]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.21-17.17.19:056][717]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.21-17.17.19:058][717]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.21-17.17.19:073][717]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JK's A9)
+[2025.10.21-17.17.19:073][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.21-17.17.19:073][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.21-17.17.19:073][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.21-17.17.19:073][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.10.21-17.17.19:073][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.10.21-17.17.19:075][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.10.21-17.17.19:075][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.10.21-17.17.19:075][717]LogInit: FAudioDevice initialized with ID 2.
+[2025.10.21-17.17.19:075][717]LogAudio: Display: Audio Device (ID: 2) registered with world 'MAP_Graveyard'.
+[2025.10.21-17.17.19:075][717]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.21-17.17.19:082][717]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.21-17.17.19:085][717]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Graveyard.MAP_Graveyard up for play (max tick rate 0) at 2025.10.21-19.17.19
+[2025.10.21-17.17.19:086][717]LogWorld: Bringing up level for play took: 0.003526
+[2025.10.21-17.17.19:090][717]LogBlueprintUserMessages: [GhostNPC_C_1] 5
+[2025.10.21-17.17.19:090][717]PIE: Server logged in
+[2025.10.21-17.17.19:091][717]PIE: Play in editor total start time 0.092 seconds.
+[2025.10.21-17.17.19:135][718]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.21-17.17.19:272][722]LogRenderer: Using fallback RTPSO
+[2025.10.21-17.17.19:315][723]LogRenderer: Using fallback RTPSO
+[2025.10.21-17.17.21:625][979]LogSlate: Window 'GhostNPC' being destroyed
+[2025.10.21-17.17.21:631][979]LogSlate: Window 'GhostNPC' being destroyed
+[2025.10.21-17.17.21:634][979]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-17.17.21:634][979]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-17.17.21:656][979]LogD3D12RHI: Creating RTPSO with 16 shaders (0 cached, 1 new) took 2382.81 ms. Compile time 6.25 ms, link time 2376.55 ms.
+[2025.10.21-17.17.21:682][979]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.21-17.17.30:380][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.21-17.17.30:380][ 20]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Graveyard
+[2025.10.21-17.17.30:380][ 20]LogWorld: UWorld::CleanupWorld for MAP_Graveyard, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-17.17.30:381][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-17.17.30:382][ 20]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.21-17.17.30:387][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-17.17.30:406][ 20]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.21-17.17.30:406][ 20]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.10.21-17.17.30:406][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.10.21-17.17.30:408][ 20]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.10.21-17.17.30:413][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.10.21-17.17.30:461][ 24]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2025.10.21-17.17.42:926][700]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/GhostNPC.GhostNPC
+[2025.10.21-17.17.42:927][700]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.10.21-17.18.11:419][652]LogDerivedDataCache: C:/Users/kadle/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.21-17.18.42:796][846]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-17.18.42:845][846]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/GhostNPC] ([2] browsable assets)...
+[2025.10.21-17.18.42:885][846]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/GhostNPC.GhostNPC]
+[2025.10.21-17.18.42:885][846]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/GhostNPC]
+[2025.10.21-17.18.42:885][846]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/GhostNPC" FILE="../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/GhostNPC.uasset" SILENT=true
+[2025.10.21-17.18.42:902][846]LogSavePackage: Moving output files for package: /Game/Characters/GhostNPC
+[2025.10.21-17.18.42:902][846]LogSavePackage: Moving '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Saved/GhostNPCD60C68B24AE1FB1D5A7A1CB9C0175B23.tmp' to '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/GhostNPC.uasset'
+[2025.10.21-17.18.42:909][846]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.710 ms
+[2025.10.21-17.18.42:943][846]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-17.18.42:943][846]LogContentValidation: Enabled validators:
+[2025.10.21-17.18.42:943][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-17.18.42:943][846]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-17.18.42:943][846]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-17.18.42:943][846]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-17.18.42:943][846]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-17.18.42:943][846]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-17.18.42:943][846]AssetCheck: /Game/Characters/GhostNPC Validating asset
+[2025.10.21-17.18.43:209][876]LogSlate: Window 'GhostNPC' being destroyed
+[2025.10.21-17.18.43:213][876]LogSlate: Window 'GhostNPC' being destroyed
+[2025.10.21-17.18.43:217][876]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-17.18.43:217][876]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-17.18.43:280][876]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.10.21-17.18.47:855][422]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.21-17.18.47:860][422]LogPlayLevel: [PlayLevel] Compiling GhostNPC before play...
+[2025.10.21-17.18.47:897][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2025.10.21-17.18.47:897][422]LogPlayLevel: PlayLevel: Blueprint regeneration took 38 ms (1 blueprints)
+[2025.10.21-17.18.47:898][422]LogPlayLevel: Display: Creating online subsystem for client :Context_5
+[2025.10.21-17.18.47:900][422]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2025.10.21-17.18.47:910][423]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Graveyard
+[2025.10.21-17.18.47:917][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006851s)
+[2025.10.21-17.18.47:917][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Graveyard.MAP_Graveyard to /Game/Maps/UEDPIE_0_MAP_Graveyard.MAP_Graveyard (0.006882s)
+[2025.10.21-17.18.47:934][423]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2025.10.21-17.18.47:935][423]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_Graveyard
+[2025.10.21-17.18.47:936][423]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2025.10.21-17.18.47:937][423]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2025.10.21-17.18.47:937][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.21-17.18.47:937][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.21-17.18.47:937][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.21-17.18.47:937][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.21-17.18.47:937][423]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.21-17.18.47:937][423]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.21-17.18.47:937][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.21-17.18.47:937][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.21-17.18.47:937][423]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.21-17.18.47:937][423]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.21-17.18.47:937][423]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.21-17.18.47:938][423]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.21-17.18.47:952][423]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JK's A9)
+[2025.10.21-17.18.47:953][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.21-17.18.47:953][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.21-17.18.47:953][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.21-17.18.47:953][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2025.10.21-17.18.47:953][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2025.10.21-17.18.47:955][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2025.10.21-17.18.47:955][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2025.10.21-17.18.47:955][423]LogInit: FAudioDevice initialized with ID 3.
+[2025.10.21-17.18.47:955][423]LogAudio: Display: Audio Device (ID: 3) registered with world 'MAP_Graveyard'.
+[2025.10.21-17.18.47:955][423]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.21-17.18.47:957][423]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.21-17.18.47:961][423]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Graveyard.MAP_Graveyard up for play (max tick rate 0) at 2025.10.21-19.18.47
+[2025.10.21-17.18.47:961][423]LogWorld: Bringing up level for play took: 0.002945
+[2025.10.21-17.18.47:963][423]LogBlueprintUserMessages: [GhostNPC_C_1] 5
+[2025.10.21-17.18.47:963][423]PIE: Server logged in
+[2025.10.21-17.18.47:965][423]PIE: Play in editor total start time 0.106 seconds.
+[2025.10.21-17.18.48:016][424]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.21-17.18.52:780][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.21-17.18.52:781][974]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Graveyard
+[2025.10.21-17.18.52:781][974]LogWorld: UWorld::CleanupWorld for MAP_Graveyard, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-17.18.52:782][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-17.18.52:783][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.21-17.18.52:787][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-17.18.52:804][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.21-17.18.52:805][974]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2025.10.21-17.18.52:805][974]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=4
+[2025.10.21-17.18.52:806][974]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3, StreamState=2
+[2025.10.21-17.18.52:818][974]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2025.10.21-17.18.52:849][976]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2025.10.21-17.22.20:645][689]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 366.735352
+[2025.10.21-17.22.21:645][692]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-17.22.21:645][692]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 367.401520, Update Interval: 301.757874
+[2025.10.21-17.25.45:330][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/GhostNPC.GhostNPC
+[2025.10.21-17.25.45:330][303]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.10.21-17.27.25:960][170]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 672.046692
+[2025.10.21-17.27.26:151][193]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-17.27.26:151][194]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 672.229065, Update Interval: 307.959839
+[2025.10.21-17.29.41:872][198]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-17.29.41:923][198]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/GhostNPC] ([2] browsable assets)...
+[2025.10.21-17.29.41:960][198]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/GhostNPC.GhostNPC]
+[2025.10.21-17.29.41:960][198]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/GhostNPC]
+[2025.10.21-17.29.41:960][198]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/GhostNPC" FILE="../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/GhostNPC.uasset" SILENT=true
+[2025.10.21-17.29.41:976][198]LogSavePackage: Moving output files for package: /Game/Characters/GhostNPC
+[2025.10.21-17.29.41:977][198]LogSavePackage: Moving '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Saved/GhostNPCC61C028E417E9553F704B190A3B10653.tmp' to '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/GhostNPC.uasset'
+[2025.10.21-17.29.41:982][198]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.412 ms (total: 223.123 ms)
+[2025.10.21-17.29.42:039][198]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-17.29.42:039][198]LogContentValidation: Enabled validators:
+[2025.10.21-17.29.42:039][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-17.29.42:039][198]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-17.29.42:039][198]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-17.29.42:039][198]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-17.29.42:039][198]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-17.29.42:039][198]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-17.29.42:039][198]AssetCheck: /Game/Characters/GhostNPC Validating asset
+[2025.10.21-17.29.45:390][596]LogBlueprint: Error: [AssetLog] C:\Users\kadle\Documents\GitHub\Kadlecova-G300-Midterm\Kadlecova_Midterm\Content\Characters\GhostNPC.uasset: [Compiler] This blueprint (self) is not a StaticMeshSocket, therefore ' Target ' must have a connection.
+[2025.10.21-17.29.45:390][596]LogBlueprint: Error: [AssetLog] C:\Users\kadle\Documents\GitHub\Kadlecova-G300-Midterm\Kadlecova_Midterm\Content\Characters\GhostNPC.uasset: [Compiler] Variable node  Get RelativeLocation  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2025.10.21-17.29.45:441][596]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.10.21-17.31.04:113][824]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.21-17.31.04:116][824]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Graveyard' took 0.025
+[2025.10.21-17.31.04:116][824]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/GhostNPC] ([2] browsable assets)...
+[2025.10.21-17.31.04:145][824]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/GhostNPC.GhostNPC]
+[2025.10.21-17.31.04:145][824]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/GhostNPC]
+[2025.10.21-17.31.04:161][824]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/GhostNPC_Auto1
+[2025.10.21-17.31.04:161][824]LogSavePackage: Moving '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Saved/GhostNPC_Auto1FDEE11D9449D819DF83CA7BED69AFAEF.tmp' to '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Saved/Autosaves/Game/Characters/GhostNPC_Auto1.uasset'
+[2025.10.21-17.31.04:161][824]LogFileHelpers: Auto-saving content packages took 0.046
+[2025.10.21-17.31.36:668][662]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.10.21-17.31.36:772][664]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.10.21-17.32.39:176][826]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 985.261047
+[2025.10.21-17.32.39:388][848]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-17.32.39:388][849]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 985.456177, Update Interval: 359.236420
+[2025.10.21-17.33.21:532][820]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-17.33.21:577][820]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/GhostNPC] ([2] browsable assets)...
+[2025.10.21-17.33.21:622][820]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/GhostNPC.GhostNPC]
+[2025.10.21-17.33.21:622][820]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/GhostNPC]
+[2025.10.21-17.33.21:622][820]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/GhostNPC" FILE="../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/GhostNPC.uasset" SILENT=true
+[2025.10.21-17.33.21:639][820]LogSavePackage: Moving output files for package: /Game/Characters/GhostNPC
+[2025.10.21-17.33.21:639][820]LogSavePackage: Moving '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Saved/GhostNPC95994AD04F6D50BFBFB0D49C12084EAE.tmp' to '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/GhostNPC.uasset'
+[2025.10.21-17.33.21:645][820]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.128 ms (total: 336.251 ms)
+[2025.10.21-17.33.21:693][820]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-17.33.21:693][820]LogContentValidation: Enabled validators:
+[2025.10.21-17.33.21:693][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-17.33.21:693][820]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-17.33.21:693][820]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-17.33.21:693][820]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-17.33.21:693][820]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-17.33.21:693][820]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-17.33.21:693][820]AssetCheck: /Game/Characters/GhostNPC Validating asset
+[2025.10.21-17.33.23:000][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.21-17.33.44:548][533]LogSlate: Window 'GhostNPC' being destroyed
+[2025.10.21-17.33.44:553][533]LogSlate: Window 'GhostNPC' being destroyed
+[2025.10.21-17.33.44:580][533]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-17.33.44:580][533]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-17.33.44:631][533]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.21-17.33.46:180][716]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.21-17.33.46:187][716]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.21-17.33.46:230][716]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2025.10.21-17.33.46:232][716]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.10.21-17.33.46:241][717]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Graveyard
+[2025.10.21-17.33.46:248][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007012s)
+[2025.10.21-17.33.46:248][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Graveyard.MAP_Graveyard to /Game/Maps/UEDPIE_0_MAP_Graveyard.MAP_Graveyard (0.007041s)
+[2025.10.21-17.33.46:269][717]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.21-17.33.46:271][717]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_Graveyard
+[2025.10.21-17.33.46:271][717]LogPlayLevel: PIE: World Init took: (0.001191s)
+[2025.10.21-17.33.46:272][717]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2025.10.21-17.33.46:272][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.21-17.33.46:272][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.21-17.33.46:272][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.21-17.33.46:272][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.21-17.33.46:272][717]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.21-17.33.46:272][717]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.21-17.33.46:272][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.21-17.33.46:272][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.21-17.33.46:272][717]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.21-17.33.46:272][717]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.21-17.33.46:272][717]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.21-17.33.46:274][717]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.21-17.33.46:290][717]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JK's A9)
+[2025.10.21-17.33.46:291][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.21-17.33.46:291][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.21-17.33.46:291][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.21-17.33.46:291][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2025.10.21-17.33.46:291][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2025.10.21-17.33.46:293][717]LogInit: FAudioDevice initialized with ID 4.
+[2025.10.21-17.33.46:293][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2025.10.21-17.33.46:293][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2025.10.21-17.33.46:293][717]LogAudio: Display: Audio Device (ID: 4) registered with world 'MAP_Graveyard'.
+[2025.10.21-17.33.46:293][717]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.21-17.33.46:296][717]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.21-17.33.46:298][717]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Graveyard.MAP_Graveyard up for play (max tick rate 0) at 2025.10.21-19.33.46
+[2025.10.21-17.33.46:299][717]LogWorld: Bringing up level for play took: 0.002764
+[2025.10.21-17.33.46:301][717]LogBlueprintUserMessages: [GhostNPC_C_1] 5
+[2025.10.21-17.33.46:302][717]PIE: Server logged in
+[2025.10.21-17.33.46:303][717]PIE: Play in editor total start time 0.118 seconds.
+[2025.10.21-17.33.46:343][718]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.21-17.33.56:730][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.21-17.33.56:730][946]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Graveyard
+[2025.10.21-17.33.56:730][946]LogWorld: UWorld::CleanupWorld for MAP_Graveyard, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-17.33.56:731][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-17.33.56:732][946]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.21-17.33.56:738][946]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-17.33.56:757][946]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.21-17.33.56:758][946]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2025.10.21-17.33.56:758][946]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=4
+[2025.10.21-17.33.56:760][946]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4, StreamState=2
+[2025.10.21-17.33.56:765][946]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.21-17.33.56:785][947]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.10.21-17.33.59:456][235]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/GhostNPC.GhostNPC
+[2025.10.21-17.33.59:457][235]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.21-17.34.06:940][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-17.34.06:996][ 60]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/GhostNPC] ([2] browsable assets)...
+[2025.10.21-17.34.07:030][ 60]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/GhostNPC.GhostNPC]
+[2025.10.21-17.34.07:030][ 60]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/GhostNPC]
+[2025.10.21-17.34.07:030][ 60]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/GhostNPC" FILE="../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/GhostNPC.uasset" SILENT=true
+[2025.10.21-17.34.07:046][ 60]LogSavePackage: Moving output files for package: /Game/Characters/GhostNPC
+[2025.10.21-17.34.07:047][ 60]LogSavePackage: Moving '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Saved/GhostNPC674C10F1491BDA872AE3D3AB71515128.tmp' to '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/GhostNPC.uasset'
+[2025.10.21-17.34.07:054][ 60]LogFileHelpers: InternalPromptForCheckoutAndSave took 113.362 ms (total: 449.614 ms)
+[2025.10.21-17.34.07:113][ 60]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-17.34.07:113][ 60]LogContentValidation: Enabled validators:
+[2025.10.21-17.34.07:113][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-17.34.07:113][ 60]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-17.34.07:113][ 60]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-17.34.07:113][ 60]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-17.34.07:113][ 60]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-17.34.07:113][ 60]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-17.34.07:113][ 60]AssetCheck: /Game/Characters/GhostNPC Validating asset
+[2025.10.21-17.34.07:999][164]LogSlate: Window 'GhostNPC' being destroyed
+[2025.10.21-17.34.08:004][164]LogSlate: Window 'GhostNPC' being destroyed
+[2025.10.21-17.34.08:030][164]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-17.34.08:030][164]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-17.34.08:092][164]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.10.21-17.34.09:506][330]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.21-17.34.09:511][330]LogPlayLevel: [PlayLevel] Compiling GhostNPC before play...
+[2025.10.21-17.34.09:552][330]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2025.10.21-17.34.09:553][330]LogPlayLevel: PlayLevel: Blueprint regeneration took 42 ms (1 blueprints)
+[2025.10.21-17.34.09:590][330]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2025.10.21-17.34.09:592][330]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.10.21-17.34.09:603][331]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MAP_Graveyard
+[2025.10.21-17.34.09:609][331]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007010s)
+[2025.10.21-17.34.09:609][331]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MAP_Graveyard.MAP_Graveyard to /Game/Maps/UEDPIE_0_MAP_Graveyard.MAP_Graveyard (0.007042s)
+[2025.10.21-17.34.09:630][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.10.21-17.34.09:632][331]LogChaosDD: Creating Chaos Debug Draw Scene for world MAP_Graveyard
+[2025.10.21-17.34.09:633][331]LogPlayLevel: PIE: World Init took: (0.001147s)
+[2025.10.21-17.34.09:633][331]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.21-17.34.09:633][331]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.21-17.34.09:633][331]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.21-17.34.09:633][331]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.21-17.34.09:634][331]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.21-17.34.09:634][331]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.21-17.34.09:634][331]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.21-17.34.09:634][331]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.21-17.34.09:634][331]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.21-17.34.09:634][331]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.21-17.34.09:634][331]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.21-17.34.09:634][331]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.21-17.34.09:635][331]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.21-17.34.09:648][331]LogAudioMixer: Display: Using Audio Hardware Device Speakers (JK's A9)
+[2025.10.21-17.34.09:648][331]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.21-17.34.09:648][331]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.21-17.34.09:648][331]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.21-17.34.09:648][331]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.21-17.34.09:648][331]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.21-17.34.09:651][331]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.21-17.34.09:651][331]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.21-17.34.09:651][331]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.21-17.34.09:651][331]LogAudio: Display: Audio Device (ID: 5) registered with world 'MAP_Graveyard'.
+[2025.10.21-17.34.09:651][331]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.21-17.34.09:653][331]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.21-17.34.09:656][331]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MAP_Graveyard.MAP_Graveyard up for play (max tick rate 0) at 2025.10.21-19.34.09
+[2025.10.21-17.34.09:656][331]LogWorld: Bringing up level for play took: 0.002530
+[2025.10.21-17.34.09:658][331]LogBlueprintUserMessages: [GhostNPC_C_1] 5
+[2025.10.21-17.34.09:659][331]PIE: Server logged in
+[2025.10.21-17.34.09:660][331]PIE: Play in editor total start time 0.15 seconds.
+[2025.10.21-17.34.09:708][332]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.10.21-17.34.16:550][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.21-17.34.16:550][129]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MAP_Graveyard
+[2025.10.21-17.34.16:550][129]LogWorld: UWorld::CleanupWorld for MAP_Graveyard, bSessionEnded=true, bCleanupResources=true
+[2025.10.21-17.34.16:550][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-17.34.16:552][129]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.21-17.34.16:557][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.21-17.34.16:577][129]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.21-17.34.16:577][129]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.21-17.34.16:577][129]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.10.21-17.34.16:579][129]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.10.21-17.34.16:590][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.10.21-17.34.16:623][131]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.10.21-17.34.43:181][392]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/GhostNPC.GhostNPC
+[2025.10.21-17.34.43:181][392]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.21-17.38.48:318][825]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1357.815796
+[2025.10.21-17.38.48:525][850]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-17.38.48:526][851]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1358.015625, Update Interval: 301.378815
+[2025.10.21-17.42.50:037][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.10.21-17.42.50:039][898]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Graveyard' took 0.039
+[2025.10.21-17.42.50:039][898]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/GhostNPC] ([2] browsable assets)...
+[2025.10.21-17.42.50:133][898]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/GhostNPC.GhostNPC]
+[2025.10.21-17.42.50:133][898]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/GhostNPC]
+[2025.10.21-17.42.50:150][898]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/GhostNPC_Auto2
+[2025.10.21-17.42.50:150][898]LogSavePackage: Moving '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Saved/GhostNPC_Auto2405F42E9428B1C13F6EF11AFE442143F.tmp' to '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Saved/Autosaves/Game/Characters/GhostNPC_Auto2.uasset'
+[2025.10.21-17.42.50:151][898]LogFileHelpers: Auto-saving content packages took 0.112
+[2025.10.21-17.44.16:029][267]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1685.529175
+[2025.10.21-17.44.16:303][300]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-17.44.16:303][301]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1685.795410, Update Interval: 328.283325
+[2025.10.21-17.50.41:664][768]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2071.163330
+[2025.10.21-17.50.41:831][788]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-17.50.41:831][789]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2071.322021, Update Interval: 306.800751
+[2025.10.21-17.53.16:818][449]LogBlueprint: Error: [AssetLog] C:\Users\kadle\Documents\GitHub\Kadlecova-G300-Midterm\Kadlecova_Midterm\Content\Characters\GhostNPC.uasset: [Compiler] This blueprint (self) is not a CalibrationPointComponent, therefore ' Target ' must have a connection.
+[2025.10.21-17.53.16:853][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.10.21-17.54.20:479][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.20ms
+[2025.10.21-17.54.20:480][802]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MAP_Graveyard' took 0.023
+[2025.10.21-17.54.20:481][802]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/GhostNPC] ([2] browsable assets)...
+[2025.10.21-17.54.20:569][802]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/GhostNPC.GhostNPC]
+[2025.10.21-17.54.20:569][802]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/GhostNPC]
+[2025.10.21-17.54.20:586][802]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/GhostNPC_Auto3
+[2025.10.21-17.54.20:586][802]LogSavePackage: Moving '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Saved/GhostNPC_Auto37D8D09744DC4147BBD4BF8BA42574E6B.tmp' to '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Saved/Autosaves/Game/Characters/GhostNPC_Auto3.uasset'
+[2025.10.21-17.54.20:587][802]LogFileHelpers: Auto-saving content packages took 0.107
+[2025.10.21-17.56.35:907][868]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2425.361816
+[2025.10.21-17.56.36:224][893]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.21-17.56.36:224][894]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2425.669189, Update Interval: 352.084106
+[2025.10.21-17.57.40:565][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2025.10.21-17.59.11:032][258]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.21-17.59.11:092][258]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/GhostNPC] ([2] browsable assets)...
+[2025.10.21-17.59.11:127][258]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/GhostNPC.GhostNPC]
+[2025.10.21-17.59.11:127][258]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/GhostNPC]
+[2025.10.21-17.59.11:127][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/GhostNPC" FILE="../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/GhostNPC.uasset" SILENT=true
+[2025.10.21-17.59.11:144][258]LogSavePackage: Moving output files for package: /Game/Characters/GhostNPC
+[2025.10.21-17.59.11:144][258]LogSavePackage: Moving '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Saved/GhostNPC7A3B122647E88DFCBEE93081B78917BF.tmp' to '../../../../../../Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/GhostNPC.uasset'
+[2025.10.21-17.59.11:151][258]LogFileHelpers: InternalPromptForCheckoutAndSave took 119.291 ms (total: 568.905 ms)
+[2025.10.21-17.59.11:191][258]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.21-17.59.11:191][258]LogContentValidation: Enabled validators:
+[2025.10.21-17.59.11:191][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.21-17.59.11:191][258]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.21-17.59.11:191][258]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.21-17.59.11:191][258]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.21-17.59.11:191][258]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.21-17.59.11:191][258]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.21-17.59.11:191][258]AssetCheck: /Game/Characters/GhostNPC Validating asset
