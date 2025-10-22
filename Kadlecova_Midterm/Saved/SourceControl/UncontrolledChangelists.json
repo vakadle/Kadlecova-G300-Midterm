@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/MainMenu.umap",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/MainMenu/MainMenu.umap",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Blueprints/BP_HealthComponent.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Characters/NPC_Ghost.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Blueprints/BP_HealthBar.uasset",
+				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Maps/MAP_Graveyard.umap",
 				"C:/Program Files/Epic Games/UE_5.6/Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset",
 				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/MainMenu/BP_MainMenuWidget.uasset",
 				"C:/Users/vakadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Maps/MAP_Graveyard.umap",
@@ -62,9 +68,7 @@
 				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Halloween/Textures/Rock_Alb.uasset",
 				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Halloween/Textures/Rock_AO.uasset",
 				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Halloween/Textures/Rock_Disp.uasset",
-				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Halloween/Textures/Rock_Nrm.uasset",
-				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/MainMenu.umap",
-				"/Users/valentynakadlecova/Desktop/UnrealProjects/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/MainMenu/MainMenu.umap"
+				"C:/Users/kadle/Documents/GitHub/Kadlecova-G300-Midterm/Kadlecova_Midterm/Content/Halloween/Textures/Rock_Nrm.uasset"
 			]
 		}
 	]
